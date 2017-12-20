@@ -1,0 +1,24 @@
+# main links
+main:
+
+  - title: "Blog"
+    url: /categories/
+
+  - title: "Publications"
+    url: /Publications/
+
+  - title: "About Me"
+    url: /About-Me/
+
+  - title: "Contact Me"
+    url: /Contact-Me/
+
+
+sub:
+  - title: All Posts
+    url: /Blog/
+  - title: "Tags"
+    url: /tags/
+
+
+
